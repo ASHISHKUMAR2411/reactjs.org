@@ -355,7 +355,7 @@ onScroll
 
 >Note
 >
->Starting with React 17, the `onScroll` event **does not bubble** in React. This matches the browser behavior and prevents the confusion when a nested scrollable element fires events on a distant parent.
+>Starting with React 17, the `onScroll` event **does not bubble** in React. This matches the browser behaviour and prevents the confusion when a nested scrollable element fires events on a distant parent.
 
 Properties:
 
